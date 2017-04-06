@@ -1,5 +1,5 @@
 body{
-	background-image: ref("vaporwave.jpg")
+	background-image: link href='vaporwave.jpg'
 	font-family: "Marker Felt","Comic Sans MS", fantasy;
 	color:#003366;
        }
