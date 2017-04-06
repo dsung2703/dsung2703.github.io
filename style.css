@@ -7,7 +7,6 @@ body{
 h1 {
 	font-size: 1.3em;
 	text-align:center;
-	color: #454356
      }
 
 table {
@@ -20,8 +19,8 @@ table {
 
 td {
 	border: 1px solid #ffffff;
-	text-align:center;
-	background-color:#9FB6CD; 
+	text-align:right;
+	background-color:#8G04B7; 
     }
 
 th {
